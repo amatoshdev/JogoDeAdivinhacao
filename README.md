@@ -26,7 +26,7 @@ As tentativas do jogador são contabilizadas por meio de um laço for.
 O laço for contém condicionais if-else que avaliarão o número inserido pelo jogador, exibirão uma mensagem personalizada dependendo da entrada do usuário e 
 contabilizarão a quantidade de tentativas restantes do usuário.
 
-Caso o usuário chegue a 0 tentativas sem acertar o número sorteado pelo algoritmo, o programa exibe uma mensagem de derrota do usuário e o número sorteado pelo algoritmo.
+Caso o usuário chegue a 0 tentativas sem acertar o número sorteado pelo algoritmo, o programa exibe uma mensagem de que o usuário perdeu o jogo e o número sorteado pelo algoritmo naquele jogo.
 <br />
 
 
