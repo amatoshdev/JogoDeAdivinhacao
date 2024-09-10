@@ -16,6 +16,8 @@ ________________________________________________________________________________
 
 Explicação do código:
 
+Para capturar as entradas do usuário, foi usada a classe Scanner.
+
 O jogo está programado dentro de um laço do-while e, para ser inicializado, necessita de uma confirmação do usuário por meio da entrada "OK" (que independe de estar escrito com capslock).
 Enquanto o usuário não inserir a palavra "ok", o jogo não é iniciado.
 
@@ -27,8 +29,8 @@ O laço for contém condicionais if-else que avaliarão o número inserido pelo 
 contabilizarão a quantidade de tentativas restantes do usuário.
 
 Caso o usuário chegue a 0 tentativas sem acertar o número sorteado pelo algoritmo, o programa exibe uma mensagem de que o usuário perdeu o jogo e o número sorteado pelo algoritmo naquele jogo.
-<br />
 
+_______________________________________________________________________________________
 
 <h2> Linguagens Utilizadas: </h2>
 
