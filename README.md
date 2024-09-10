@@ -10,14 +10,14 @@ O jogo guia o usuário para que ele saiba se o número inserido por ele é maior
 
 Caso o usuário não adivinhe em até 5 tentativas, ele perde o jogo e tem a possibilidade de re-executar o código novamente para jogar e tentar adivinhar o novo número sorteado pelo algoritmo.
 
-Não se esqueça de inserir "OK" para começar o jogo (do contrário, ele não inicia).
+Não se esqueça de inserir "OK" para começar o jogo (do contrário, ele não valida e inicia).
 
 _______________________________________________________________________________________
 
 Explicação do código:
 
 O jogo está programado dentro de um laço do-while e, para ser inicializado, necessita de uma confirmação do usuário por meio da entrada "OK" (que independe de estar escrito com capslock).
-Enquanto o usuário não inserir a palavra "ok", o jogo não inicia.
+Enquanto o usuário não inserir a palavra "ok", o jogo não é iniciado.
 
 Os números aleatórios são gerados pela classe "Random" numa faixa de 0 a 100.
 
@@ -42,30 +42,19 @@ Caso o usuário chegue a 0 tentativas sem acertar o número sorteado pelo algori
 <h2> Ilustrações do programa: </h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Tela inicial do jogo: <br/> <br/>
+<img src="https://imgur.com/vwL7bxr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Validação do usuário:  <br/> <br/>
+<img src="https://imgur.com/VtjUHVM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Mensagem do prompt caso o usuário perca o jogo: <br/> <br/>
+<img src="https://imgur.com/J6HfrDv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Mensagem do prompt caso o usuário ganhe o jogo:  <br/> <br/>
+<img src="https://imgur.com/y4F6BRm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
