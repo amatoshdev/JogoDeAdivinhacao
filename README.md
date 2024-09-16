@@ -44,12 +44,13 @@ Para (re)criar esse projeto você necessitará consolidar e aplicar certos conhe
 2. Estruturas de repetição (estruturas utilizadas: do-while)
 3. Estruturas condicionais (estruturas utilizadas: if-else)
 4. Operadores de igualdade (operadores utilizados: == e !=)
-5. Operadores de atribuição composta (operadores utilizados: += e -=)
-6. Operadores relacionais (operadores utilizados: >, < e >=)
-7. Declaração de Strings
-8. Conferência da entrada do "tipo" String do usuário com a entrada solicitada pelo programa (variavel.equalsIgnoreCase())
-9. Importação e aplicação da classe Scanner de acordo com os tipos primitivos e a classe String
-10. Importação e aplicação da classe Random
+5. Operadores relacionais (operadores utilizados: >, < e >=)
+6. Operadores de atribuição composta (operadores utilizados: += e -=)
+7. Operador de decremento (operador utilizado: -- (pós-decremento));
+8. Declaração de Strings
+9. Conferência da entrada do "tipo" String do usuário com a entrada solicitada pelo programa (variavel.equalsIgnoreCase())
+10. Importação e aplicação da classe Scanner de acordo com os tipos primitivos e a classe String
+11. Importação e aplicação da classe Random
 
 <h2> Linguagens Utilizadas: </h2>
 
