@@ -2,7 +2,7 @@
 
 <h2> Descrição do Projeto </h2>
 
-*Instruções do jogo:*
+**Instruções do jogo:**
 
 O programa gera sempre um novo número aleatório, no limite de 0 a 100, que o usuário deve adivinhar em, no máximo, 5 tentativas.
 
@@ -14,7 +14,7 @@ Não se esqueça de inserir "OK" para começar o jogo (do contrário, ele não v
 
 ___
 
-*Explicação do código:*
+**Explicação do código:**
 
 Para capturar as entradas do usuário, foi usada a classe Scanner.
 
