@@ -80,12 +80,9 @@ Mensagem do prompt caso o usuário ganhe o jogo:  <br/> <br/>
 <img src="https://imgur.com/y4F6BRm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br/>
-
-___
-
 _______
 
 <p align = "center">
-<i> *Gostaria de agradecer à escola de programação Alura por ter esse projeto em meio ao seu material didático. Sem ele, eu não teria aprendido tanto e muito menos feito esse projeto tão rico para quem está iniciando sua carreira no mundo da tecnologia.* </i> </p>
+<i> Gostaria de agradecer à escola de programação Alura por ter esse projeto em meio ao seu material didático. Sem ele, eu não teria aprendido tanto e muito menos feito esse projeto tão rico para quem está iniciando sua carreira no mundo da tecnologia. </i> </p>
 
       Muito obrigado por acompanhar a leitura dessa apresentação até aqui! Desfrute-o como quiser! 😁☕
